@@ -1,6 +1,6 @@
 # Blackjack
-You will need to have pygame installed but it you don't paste this in the terminal befor running the game: 
+You will need to have pygame installed but if you don't paste this in the terminal before running the game
 
-pip install pygame
+terminal->pip install pygame
 
 Enjoy the game.
